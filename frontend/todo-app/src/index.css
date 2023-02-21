@@ -1,0 +1,14 @@
+#todo-brand {
+  font-size: 1.5em;
+}
+
+#trash-delete:hover {
+  color: hsl(348, 100%, 61%);
+  cursor: pointer;
+}
+
+#signup-error,
+#login-error,
+#todo-error {
+  color: hsl(348, 100%, 61%);
+}
